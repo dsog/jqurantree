@@ -1,0 +1,26 @@
+Token     Count
+-----     -----
+fiY       1098
+{ll~ahi   828
+{l~a*iyna 810
+{ll~ahu   733
+min       728
+maA       711
+laA       616
+<in~a     609
+walaA     605
+{ll~aha   592
+
+Token Count
+----- -----
+mn    2589
+Allh  2153
+An    1603
+fY    1185
+mA    1010
+lA    812
+Al*yn 811
+AlA   763
+wlA   658
+wmA   646
+

@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+	<groupId>org.jqurantree</groupId>
+	<artifactId>jqurantree</artifactId>
+	<name>JQuranTree</name>
+	<version>1.0.0</version>
+	<packaging>jar</packaging>
+	<description>JQuranTree</description>
+	<dependencies>
+		<dependency>
+			<groupId>junit</groupId>
+			<artifactId>junit</artifactId>
+			<version>4.4</version>
+			<scope>test</scope>
+		</dependency>
+	</dependencies>
+	<build>
+		<plugins>
+			<plugin>
+				<groupId>org.apache.maven.plugins</groupId>
+				<artifactId>maven-compiler-plugin</artifactId>
+				<configuration>
+					<source>1.6</source>
+					<target>1.6</target>
+				</configuration>
+			</plugin>
+		</plugins>
+	</build>
+	<reporting>
+		<plugins>
+			<plugin>
+				<groupId>org.codehaus.mojo</groupId>
+				<artifactId>cobertura-maven-plugin</artifactId>
+				<configuration>
+					<formats>
+						<format>html</format>
+					</formats>
+				</configuration>
+			</plugin>
+			<plugin>
+				<groupId>org.apache.maven.plugins</groupId>
+				<artifactId>maven-javadoc-plugin</artifactId>
+				<configuration>
+					<doctitle>JQuranTree API Documentation</doctitle>
+					<windowtitle>JQuranTree API Documentation</windowtitle>
+					<bottom>
+						<![CDATA[Copyright&copy; Kais Dukes, 2009. All Rights Reserved.]]>
+					</bottom>
+				</configuration>
+			</plugin>
+		</plugins>
+	</reporting>
+</project>

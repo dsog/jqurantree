@@ -1,0 +1,33 @@
+Verse  Initials
+-----  --------
+(2:1)  Alif | Lam | Meem
+(3:1)  Alif | Lam | Meem
+(7:1)  Alif | Lam | Meem | Sad
+(10:1) Alif | Lam | Ra
+(11:1) Alif | Lam | Ra
+(12:1) Alif | Lam | Ra
+(13:1) Alif | Lam | Meem | Ra
+(14:1) Alif | Lam | Ra
+(15:1) Alif | Lam | Ra
+(19:1) Kaf | Ha | Ya | Ain | Sad
+(20:1) TTa | Ha
+(26:1) TTa | Seen | Meem
+(27:1) TTa | Seen
+(28:1) TTa | Seen | Meem
+(29:1) Alif | Lam | Meem
+(30:1) Alif | Lam | Meem
+(31:1) Alif | Lam | Meem
+(32:1) Alif | Lam | Meem
+(36:1) Ya | Seen
+(38:1) Sad
+(40:1) HHa | Meem
+(41:1) HHa | Meem
+(42:1) HHa | Meem
+(42:2) Ain | Seen | Qaf
+(43:1) HHa | Meem
+(44:1) HHa | Meem
+(45:1) HHa | Meem
+(46:1) HHa | Meem
+(50:1) Qaf
+(68:1) Noon
+

@@ -1,0 +1,18 @@
+<project name="jqurantree" xmlns:artifact="antlib:org.apache.maven.artifact.ant">
+
+	<!-- Properties -->
+	<property name="pom.path" value="pom.xml" />
+	<property name="target.path" value="target" />
+	
+	<!-- Creates a ZIP archive -->
+	<target name="zip">
+		<tstamp/>
+		<property name="zip.path" value="JQuranTree-${DSTAMP}.zip"/>
+		<delete file="${zip.path}" />
+		<zip destfile="${zip.path}" basedir=".">
+			<exclude name=".*/**" />
+			<exclude name="${target.path}/**" />
+		</zip>
+	</target>
+
+</project>

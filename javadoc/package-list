@@ -1,0 +1,13 @@
+org.jqurantree.analysis
+org.jqurantree.arabic
+org.jqurantree.arabic.encoding
+org.jqurantree.arabic.encoding.buckwalter
+org.jqurantree.arabic.encoding.simple
+org.jqurantree.arabic.encoding.unicode
+org.jqurantree.core.collections
+org.jqurantree.core.error
+org.jqurantree.core.io
+org.jqurantree.core.resource
+org.jqurantree.orthography
+org.jqurantree.search
+org.jqurantree.tanzil
