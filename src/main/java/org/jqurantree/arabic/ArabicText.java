@@ -390,7 +390,7 @@ public class ArabicText implements Iterable<ArabicCharacter> {
 			}
 
 			// Return text with letters.
-			text = new ArabicText(buffer, 0, characterCount);
+			text = new ArabicText(buffer, 0, letterCount);
 		}
 
 		// Return text.
